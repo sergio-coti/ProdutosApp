@@ -1,0 +1,144 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# DotNetCore
+project.json
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+
+# Resharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+*.edmx
+*.edmx.diagram
+*.edmx.sql
+
+# DotNet5
+.vscode/
+.vs/
+*.dbmdl
+*.jfm
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Rider
+.idea/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/contentModel.xml
+.idea/**/modules.xml
+.idea/**/description.html
+.idea/**/webServer.xml
+.idea/**/webServers.xml
+.idea/**/vcs.xml
+.idea/**/markdown-navigator.xml
+.idea/**/markdown-navigator.xml__temp
+.idea/**/workspace.*.xml
+.idea/**/scratch.*
+.idea/**/jsLinters/
+.idea/**/deployment.xml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+
+# NPM
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# NuGet
+*.nupkg
+# Include if running the "dotnet pack" command in the root of the repository, which will
+# output these NuGet package files into the root of the repository.
+*.snupkg
+
+# Microsoft Visual Studio Build Outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Uncomment if you have tasks that create the project's static website in wwwroot
+# wwwroot/
+
+# MSTest test Results
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+[TestResults](https://testresults/)
+ReSharper
+
+# Auto generated VS 2017 .NET Core Server project
+GENERATED_CODE/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
